@@ -8,3 +8,5 @@ console.log(inspectObj(document));
 or
 
 window.alert(inspectObj(document)); 
+
+License MIT
